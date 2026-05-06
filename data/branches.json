@@ -1,0 +1,474 @@
+[
+  {
+    "id": "waterloo",
+    "name": "Waterloo",
+    "postcode": "SE1 8UL",
+    "address": "Mercury House, Room 106, 117 Waterloo Road, London, SE1 8UL",
+    "area": "South East London",
+    "wheelchair_accessible": true
+  },
+  {
+    "id": "victoria",
+    "name": "Victoria",
+    "postcode": "SW1V 1LW",
+    "address": "25 Wilton Road, Victoria, London, SW1V 1LW",
+    "area": "South West London",
+    "wheelchair_accessible": null
+  },
+  {
+    "id": "baker-street",
+    "name": "Baker Street",
+    "postcode": "W1H 6AZ",
+    "address": "Unit 4, 10 Portman Square, London, W1H 6AZ",
+    "area": "West London",
+    "wheelchair_accessible": true
+  },
+  {
+    "id": "kings-cross",
+    "name": "Kings Cross",
+    "postcode": "WC1X 8BP",
+    "address": "Office 3.1, 354 Gray's Inn Road, King's Cross, London, WC1X 8BP",
+    "area": "Central London",
+    "wheelchair_accessible": null
+  },
+  {
+    "id": "liverpool-st",
+    "name": "Liverpool Street",
+    "postcode": "EC2M 4RH",
+    "address": "14 Devonshire Row, London, EC2M 4RH",
+    "area": "Central London / City",
+    "wheelchair_accessible": true
+  },
+  {
+    "id": "edgware-road",
+    "name": "Edgware Road",
+    "postcode": "W2 1ED",
+    "address": "1st Floor, 404-406 Edgware Road, London, W2 1ED",
+    "area": "West London",
+    "wheelchair_accessible": null
+  },
+  {
+    "id": "old-street",
+    "name": "Old Street",
+    "postcode": "EC2A 4BQ",
+    "address": "Lower Ground Floor, 5 Singer Street, London, EC2A 4BQ",
+    "area": "Central London / City",
+    "wheelchair_accessible": null
+  },
+  {
+    "id": "camden",
+    "name": "Camden",
+    "postcode": "NW1 9PF",
+    "address": "142 Camden Street, London, NW1 9PF",
+    "area": "North West London",
+    "wheelchair_accessible": null
+  },
+  {
+    "id": "highbury-islington",
+    "name": "Highbury & Islington",
+    "postcode": "N1 2UQ",
+    "address": "271 Upper Street, London, N1 2UQ",
+    "area": "North London",
+    "wheelchair_accessible": null
+  },
+  {
+    "id": "kensington-high-st",
+    "name": "High Street Kensington",
+    "postcode": "W8 4BA",
+    "address": "Saachii Wellness, 61 Kensington Church Street, London, W8 4BA",
+    "area": "West London",
+    "wheelchair_accessible": null
+  },
+  {
+    "id": "clapham",
+    "name": "Clapham Common",
+    "postcode": "SW4 0HY",
+    "address": "First Floor Office, 8A The Pavement, London, SW4 0HY",
+    "area": "South West London",
+    "wheelchair_accessible": null
+  },
+  {
+    "id": "east-dulwich",
+    "name": "East Dulwich",
+    "postcode": "SE22 8DT",
+    "address": "64 Grove Vale, East Dulwich, London, SE22 8DT",
+    "area": "South East London",
+    "wheelchair_accessible": null
+  },
+  {
+    "id": "shepherds-bush",
+    "name": "Shepherd's Bush",
+    "postcode": "W12 8QQ",
+    "address": "25 Goldhawk Road, London, W12 8QQ",
+    "area": "West London",
+    "wheelchair_accessible": null
+  },
+  {
+    "id": "fulham",
+    "name": "Fulham",
+    "postcode": "SW6 4LZ",
+    "address": "136-144 New King's Road, London, SW6 4LZ",
+    "area": "South West London",
+    "wheelchair_accessible": null
+  },
+  {
+    "id": "canary-wharf",
+    "name": "Canary Wharf",
+    "postcode": "E14 9SH",
+    "address": "Sierra Quebec Bravo, 77 Marsh Wall, London, E14 9SH",
+    "area": "East London",
+    "wheelchair_accessible": null
+  },
+  {
+    "id": "finsbury-park",
+    "name": "Finsbury Park",
+    "postcode": "N4 1DZ",
+    "address": "Lower 345 Green Lanes, London, N4 1DZ",
+    "area": "North London",
+    "wheelchair_accessible": true
+  },
+  {
+    "id": "walm-lane",
+    "name": "Willesden Green",
+    "postcode": "NW2 4RA",
+    "address": "70-72 Walm Lane, London, NW2 4RA",
+    "area": "North West London",
+    "wheelchair_accessible": null
+  },
+  {
+    "id": "greenwich",
+    "name": "Greenwich",
+    "postcode": "SE10 9HY",
+    "address": "4 College Approach, London, SE10 9HY",
+    "area": "South East London",
+    "wheelchair_accessible": true
+  },
+  {
+    "id": "golders-green",
+    "name": "Golders Green",
+    "postcode": "NW11 8EL",
+    "address": "Warman-Freed Pharmacy, 45 Golders Green Road, London, NW11 8EL",
+    "area": "North West London",
+    "wheelchair_accessible": null
+  },
+  {
+    "id": "muswell-hill",
+    "name": "Muswell Hill",
+    "postcode": "N10 3QR",
+    "address": "50 Hillfield Park Mews, London, N10 3QR",
+    "area": "North London",
+    "wheelchair_accessible": null
+  },
+  {
+    "id": "lewisham",
+    "name": "Lewisham",
+    "postcode": "SE13 5JX",
+    "address": "Tower House, 67-71 Lewisham High Street, London, SE13 5JX",
+    "area": "South East London",
+    "wheelchair_accessible": null
+  },
+  {
+    "id": "stratford",
+    "name": "Stratford",
+    "postcode": "E15 1BZ",
+    "address": "Suite 15, City View House, 1 Dorset Place, Stratford, E15 1BZ",
+    "area": "East London",
+    "wheelchair_accessible": null
+  },
+  {
+    "id": "wimbledon",
+    "name": "Wimbledon",
+    "postcode": "SW19 1NE",
+    "address": "165 The Broadway, London, SW19 1NE",
+    "area": "South West London",
+    "wheelchair_accessible": null
+  },
+  {
+    "id": "walthamstow",
+    "name": "Walthamstow",
+    "postcode": "E17 7JH",
+    "address": "234A High Street, London, E17 7JH",
+    "area": "East London",
+    "wheelchair_accessible": null
+  },
+  {
+    "id": "ealing",
+    "name": "Ealing",
+    "postcode": "W5 4QT",
+    "address": "35-39 South Ealing Road, London, W5 4QT",
+    "area": "West London",
+    "wheelchair_accessible": true
+  },
+  {
+    "id": "morden",
+    "name": "Morden",
+    "postcode": "SM4 5BT",
+    "address": "Suite 306, Peel House, 34-44 London Road, Morden, SM4 5BT",
+    "area": "South West London",
+    "wheelchair_accessible": null
+  },
+  {
+    "id": "wembley",
+    "name": "Wembley",
+    "postcode": "HA9 8JT",
+    "address": "2 The Broadway, Wembley, London, HA9 8JT",
+    "area": "North West London / Harrow",
+    "wheelchair_accessible": null
+  },
+  {
+    "id": "bromley",
+    "name": "Bromley",
+    "postcode": "BR2 0EY",
+    "address": "7 Station Road, Shortlands, Bromley, BR2 0EY",
+    "area": "Kent / South East London",
+    "wheelchair_accessible": null
+  },
+  {
+    "id": "ilford",
+    "name": "Ilford",
+    "postcode": "IG1 3AD",
+    "address": "27 York Road, Ilford, IG1 3AD",
+    "area": "Essex / Redbridge",
+    "wheelchair_accessible": false
+  },
+  {
+    "id": "twickenham",
+    "name": "Twickenham",
+    "postcode": "TW1 3SH",
+    "address": "60 King Street, Twickenham, London, TW1 3SH",
+    "area": "South West London",
+    "wheelchair_accessible": null
+  },
+  {
+    "id": "harrow",
+    "name": "Harrow",
+    "postcode": "HA1 1LJ",
+    "address": "14 Havelock Place, Harrow, HA1 1LJ",
+    "area": "North West London / Harrow",
+    "wheelchair_accessible": null
+  },
+  {
+    "id": "enfield",
+    "name": "Enfield",
+    "postcode": "EN1 1PJ",
+    "address": "73 Southbury Road, Enfield, EN1 1PJ",
+    "area": "Hertfordshire / North London",
+    "wheelchair_accessible": false
+  },
+  {
+    "id": "croydon",
+    "name": "Croydon",
+    "postcode": "CR2 6AL",
+    "address": "360 Brighton Road, Croydon, Surrey, CR2 6AL",
+    "area": "Surrey / Croydon",
+    "wheelchair_accessible": null
+  },
+  {
+    "id": "surbiton",
+    "name": "Surbiton",
+    "postcode": "KT6 4QU",
+    "address": "6 Claremont Road, Surbiton, Surrey, KT6 4QU",
+    "area": "Surrey",
+    "wheelchair_accessible": null
+  },
+  {
+    "id": "borehamwood",
+    "name": "Borehamwood",
+    "postcode": "WD6 4PJ",
+    "address": "Kinetic Centre, Theobald Street, Borehamwood, WD6 4PJ",
+    "area": "Hertfordshire",
+    "wheelchair_accessible": null
+  },
+  {
+    "id": "hayes",
+    "name": "Hayes",
+    "postcode": "UB3 4DX",
+    "address": "The Winning Box, Aquis House, 27-37 Station Road, Hayes, UB3 4DX",
+    "area": "West London / Hillingdon",
+    "wheelchair_accessible": null
+  },
+  {
+    "id": "bexley",
+    "name": "Bexley",
+    "postcode": "DA5 1AB",
+    "address": "45 Bexley High Street, Bexley, DA5 1AB",
+    "area": "Kent",
+    "wheelchair_accessible": null
+  },
+  {
+    "id": "potters-bar",
+    "name": "Potters Bar",
+    "postcode": "EN6 5AB",
+    "address": "Align Clinic, 66a High Street, Potters Bar, EN6 5AB",
+    "area": "Hertfordshire / North London",
+    "wheelchair_accessible": null
+  },
+  {
+    "id": "ruislip-manor",
+    "name": "Ruislip Manor",
+    "postcode": "HA4 8HR",
+    "address": "128 Manor Way, Ruislip, Harrow, HA4 8HR",
+    "area": "North West London / Harrow",
+    "wheelchair_accessible": null
+  },
+  {
+    "id": "romford",
+    "name": "Romford",
+    "postcode": "RM1 3NH",
+    "address": "Beauty Aesthetics, 19-21 Eastern Road, Romford, Essex, RM1 3NH",
+    "area": "Essex / Havering",
+    "wheelchair_accessible": null
+  },
+  {
+    "id": "hornchurch",
+    "name": "Hornchurch",
+    "postcode": "RM12 6RD",
+    "address": "7D Suttons Lane, Hornchurch, RM12 6RD",
+    "area": "Essex / Havering",
+    "wheelchair_accessible": null
+  },
+  {
+    "id": "leatherhead",
+    "name": "Leatherhead",
+    "postcode": "KT22 0AH",
+    "address": "Park House, Randalls Road, Leatherhead, KT22 0AH",
+    "area": "Surrey",
+    "wheelchair_accessible": null
+  },
+  {
+    "id": "staines",
+    "name": "Staines",
+    "postcode": "TW18 2PG",
+    "address": "Health Clinic, Westlake Pharmacy, 63 Wheatsheaf Lane, Staines, TW18 2PG",
+    "area": "South West London",
+    "wheelchair_accessible": null
+  },
+  {
+    "id": "st-albans",
+    "name": "St Albans",
+    "postcode": "AL1 1PD",
+    "address": "Oxana Healthcare Clinic, 19 Watsons Walk, St Albans, AL1 1PD",
+    "area": "Hertfordshire",
+    "wheelchair_accessible": null
+  },
+  {
+    "id": "brentwood",
+    "name": "Brentwood",
+    "postcode": "CM14 4HL",
+    "address": "12 King Edward Road, Brentwood, CM14 4HL",
+    "area": "Essex",
+    "wheelchair_accessible": null
+  },
+  {
+    "id": "welwyn-garden-city",
+    "name": "Welwyn Garden City",
+    "postcode": "AL7 1HU",
+    "address": "Orion House, 15 Bessemer Road, Welwyn Garden City, AL7 1HU",
+    "area": "Hertfordshire",
+    "wheelchair_accessible": null
+  },
+  {
+    "id": "maidenhead",
+    "name": "Maidenhead",
+    "postcode": "SL6 4UY",
+    "address": "1 Frascati Way, Maidenhead, SL6 4UY",
+    "area": "Berkshire",
+    "wheelchair_accessible": null
+  },
+  {
+    "id": "basildon",
+    "name": "Basildon",
+    "postcode": "SS14 1EU",
+    "address": "Essex Beauty & Aesthetics Ltd, 69 Southernhay, Basildon, Essex, SS14 1EU",
+    "area": "Essex",
+    "wheelchair_accessible": null
+  },
+  {
+    "id": "bracknell",
+    "name": "Bracknell",
+    "postcode": "RG12 1WA",
+    "address": "Venture House, 2 Arlington Square, Bracknell, Berkshire, RG12 1WA",
+    "area": "Berkshire",
+    "wheelchair_accessible": null
+  },
+  {
+    "id": "rochester",
+    "name": "Rochester",
+    "postcode": "ME1 1LD",
+    "address": "Aura Aesthetics Clinic, 40a High Street, Rochester, ME1 1LD",
+    "area": "Kent",
+    "wheelchair_accessible": null
+  },
+  {
+    "id": "high-wycombe",
+    "name": "High Wycombe",
+    "postcode": "HP11 2QW",
+    "address": "1st Floor Suite C1, Apollo Centre, Desborough Road, High Wycombe, HP11 2QW",
+    "area": "Buckinghamshire",
+    "wheelchair_accessible": null
+  },
+  {
+    "id": "chelmsford",
+    "name": "Chelmsford",
+    "postcode": "CM2 0GP",
+    "address": "New Bridge House, 60 New London Road, Chelmsford, Essex, CM2 0GP",
+    "area": "Essex",
+    "wheelchair_accessible": null
+  },
+  {
+    "id": "tunbridge-wells",
+    "name": "Royal Tunbridge Wells",
+    "postcode": "TN1 2UJ",
+    "address": "iBeautify, 76 Calverley Road, Tunbridge Wells, TN1 2UJ",
+    "area": "Kent",
+    "wheelchair_accessible": null
+  },
+  {
+    "id": "maidstone",
+    "name": "Maidstone",
+    "postcode": "ME15 6TP",
+    "address": "Longford Dental Centre, 25 Postley Road, Maidstone, ME15 6TP",
+    "area": "Kent",
+    "wheelchair_accessible": null
+  },
+  {
+    "id": "letchworth",
+    "name": "Letchworth Garden City",
+    "postcode": "SG6 1JJ",
+    "address": "B1 Pixmore Avenue, Letchworth Garden City, SG6 1JJ",
+    "area": "Hertfordshire",
+    "wheelchair_accessible": null
+  },
+  {
+    "id": "aylesbury",
+    "name": "Aylesbury",
+    "postcode": "HP20 2SQ",
+    "address": "Spine and Core Synergy, Unit 10, Duck Farm Court, Aylesbury, HP20 2SQ",
+    "area": "Buckinghamshire",
+    "wheelchair_accessible": null
+  },
+  {
+    "id": "reading",
+    "name": "Reading",
+    "postcode": "RG1 1NU",
+    "address": "9 Greyfriars Road, Reading, Berkshire, RG1 1NU",
+    "area": "Berkshire",
+    "wheelchair_accessible": null
+  },
+  {
+    "id": "colchester",
+    "name": "Colchester",
+    "postcode": "CO3 3LX",
+    "address": "The Manor Health and Wellness Centre, 11 Manor Road, Colchester, CO3 3LX",
+    "area": "Essex",
+    "wheelchair_accessible": null
+  },
+  {
+    "id": "oxford",
+    "name": "Oxford",
+    "postcode": "OX1 1BT",
+    "address": "TAO Beauty, 1st Floor, 99-100 St Aldate's, Oxford, OX1 1BT",
+    "area": "Oxfordshire",
+    "wheelchair_accessible": null
+  }
+]
